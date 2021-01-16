@@ -1,0 +1,15 @@
+1. Fixed class name from experimentalPlane to ExperimentalPlane in Airport class.
+2. Renamed method name from test3 to testNextPlaneMaxLoadCapacityIsHigherThanCurrent in AirportTest class.
+3. Renamed all experimentalPlane to ExperimentalPlane in getExperimentalPlanes method .
+4. Changed import class name from experimentalPlane to ExperimentalPlane in AirportTest class.
+5. Changed all signatures from experimentalPlane to ExperimentalPlane in AirportTest class.
+6. Renamed class from MyPlane to NewPlane.
+7. Deleted commented out toString method and text comment in PassengerPlane class.
+8. Deleted multiline comment in Airport class.
+9. Deleted else statement in some class.
+10. Deleted comments TODO in MyPlane class.
+11. Deleted 3 commented out lines in Airport class.
+12. Renamed name of the method from getPasPl to getPassengerPlane.
+13. Renamed method name into getMaxFlightDistance.
+14. Renamed method name into getMaxSpeed.
+15. Refactor getMinLoadCapacity method in oneliner.
